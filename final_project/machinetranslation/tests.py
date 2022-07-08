@@ -1,4 +1,4 @@
-import translator
+from . import translator
 import unittest
 
 
